@@ -39,8 +39,8 @@ const Hero: React.FC = () => {
           {/* Animated Headline */}
           <h1 className="text-[13vw] md:text-[11vw] lg:text-[10vw] leading-[0.85] md:leading-[0.8] font-black uppercase tracking-tighter mix-blend-difference mb-8 md:mb-10">
             <span className="block animate-fade-up" style={{ animationDelay: '0ms' }}>We Don't</span>
-            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-neutral-500 to-white animate-fade-up" style={{ animationDelay: '150ms' }}>Just Design.</span>
-            <span className="block animate-fade-up" style={{ animationDelay: '300ms' }}>We Dominate.</span>
+            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-neutral-500 to-white animate-fade-up" style={{ animationDelay: '150ms' }}>Just Design</span>
+            <span className="block animate-fade-up" style={{ animationDelay: '300ms' }}>We Dominate</span>
           </h1>
           
           <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-start md:items-end justify-between mt-8 md:mt-12 border-t border-neutral-800 pt-8 md:pt-12">
